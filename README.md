@@ -11,8 +11,4 @@ Delivery teams can use these cards in activities like:
   * Taking part in the 3 amigos, 
   * Coaching
   * Knowledgeshare 
-  * Illustrate or demonstrate their talking points atound accessibility
-
-Whether you’re a new tester looking for a fun way to learn about testing or one with many years of experience behind you, TestSphere aims to unlock barriers that you didn’t know were there.
-
-Join the TestSphere Dojo challenge: Pick a TestSphere card, tell your story and get it on the Dojo.
+  * Illustrate or demonstrate a talking point atound accessibility
