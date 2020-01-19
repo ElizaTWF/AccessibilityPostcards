@@ -13,4 +13,6 @@ Delivery teams can use these cards in activities like:
   * Knowledgeshare 
   * Illustrate or demonstrate a talking point atound accessibility
   
+  https://github.com/ElizaTWF/AccessibilityPostcards/blob/master/files/Symbol.jpg
+  
   
