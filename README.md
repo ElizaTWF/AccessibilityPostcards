@@ -13,5 +13,5 @@ Delivery teams can use these cards in activities like:
   * Knowledgeshare 
   * Illustrate or demonstrate a talking point atound accessibility
   
-  !<p align="center">[AccessibilityPostcards logo](/files/Symbol.jpg)</p>
+  <p align="center"> src="/files/Symbol.jpg"></p>
   
