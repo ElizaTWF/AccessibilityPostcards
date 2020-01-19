@@ -14,4 +14,4 @@ Delivery teams can use these cards in activities like:
   * Illustrate or demonstrate a talking point atound accessibility
   
   
-<p style="text-align:center;"><img src="{{site.baseurl}}/files/Symbol.jpg" alt="Wheel with acccessibiilty images for eyes. ears, head and limbs"></p>
+<p style="text-align:center;"><img src="{{site.baseurl}}files/Symbol.jpg" alt="Wheel with acccessibiilty images for eyes. ears, head and limbs"></p>
