@@ -1,5 +1,5 @@
 # AccessibilityPostcards
-Plain English translatiosn of accessibility postcards
+Plain English translations of accessibility postcards
 
 The postcards are divided into 4 catagories areas: visual, aural, mobility and cognative.
 
